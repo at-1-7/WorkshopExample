@@ -1,2 +1,2 @@
 # WorkshopExample
-SAMPLE CODE FOR HACKGWINNETT WORKSHOP
+My version of the workshop example
